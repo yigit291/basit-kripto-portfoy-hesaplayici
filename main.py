@@ -28,7 +28,8 @@ if __name__ == "__main__":
         'BTC': 0.05,
         'ETH': 1.2,
         'SOL': 5,
-        'XRP': 250
+        'XRP': 250,
+        'ADA': 500,
     }
 
     # 2. Adım: Varlıkların anlık Dolar fiyatlarını tanımlayalım.
